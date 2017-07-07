@@ -1,0 +1,23 @@
+body {
+
+font-family: 'Eater', cursive;
+
+background-color: #EDAFB8 !important;
+color:#AA4465 !important;
+}
+h1 {
+  color:#AA4465 !important;
+ }
+main{
+
+  color:#AA4465;
+}
+nav{
+list-style-type: none;
+  text-align: center;
+}
+
+p{
+  width:400px;
+  margin-left: 15px;
+}
